@@ -1,0 +1,5 @@
+export default {
+   SET_TIMER : 'SET_TIMER',
+   GET_TIMER : 'GET_TIMER',
+   REMOVE_TIMER:'REMOVE_TIMER'
+};
